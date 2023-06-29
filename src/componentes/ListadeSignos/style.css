@@ -2,7 +2,13 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 1024px;
+    max-width: 1024px;
     margin: 0 auto;
     box-sizing: border-box;
+}
+
+@media screen and (max-width: 350px) {
+    .lista {
+        max-width: 350px;
+    }
 }
