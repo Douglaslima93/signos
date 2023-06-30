@@ -3,11 +3,11 @@
 ## Tecnologia: <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ## Objetivo:
-### Criar uma pagina Web, utilizando Props: (São valores "parâmetros" que passamos para um componente).
+### - Criar uma pagina Web, utilizando Props: (São valores "parâmetros" que passamos para um componente).
 
 ## Oque aprendi:
-### Através do Props, consegui aproveitar diversos componentes.
-### E também um novo conceito com React js, para utilizar em projetos futuros.
+### - Através do Props, consegui aproveitar diversos componentes.
+### - E também um novo conceito com React js, para utilizar em projetos futuros.
 
 ## ![Alt text](imagem1-1.png)
 ## ![Alt text](imagem2-1.png)
